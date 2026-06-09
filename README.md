@@ -9,7 +9,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sreevarsha1501&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](![](https://streak-stats.demolab.com/?user=sreevarsha1501&theme=dark&hide_border=false&cache_seconds=1))<br/>
+![](https://streak-stats.demolab.com/?user=sreevarsha1501&theme=dark&hide_border=false&cache_seconds=1)<br/>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
